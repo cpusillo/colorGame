@@ -1,4 +1,4 @@
-# colorGame
+# colorGame (WORK IN PROGRESS)
 This is a color guessing game which will test your knowledge of RGB!
 
 ## How to use this app
