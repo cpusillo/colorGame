@@ -1,0 +1,35 @@
+body {
+    background-color: #232323;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+.square {
+    width: 30%;
+    margin: 1.66%;
+    background-color: purple;
+    padding-bottom: 30%;
+    float: left;
+    border-radius: 14px;
+}
+.incorrect {
+    background-color: #232323;
+}
+
+h1 {
+    color: white;
+}
+#message {
+    color: black;
+}
+
+#stripe {
+    background-color: white;
+    height: 30px;
+    text-align: center;
+}
+.selected{
+    background-color: blue;
+}
